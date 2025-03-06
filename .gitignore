@@ -1,0 +1,93 @@
+# compiled output
+/dist
+/node_modules
+/test
+
+# Logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# OS
+.DS_Store
+
+# Tests
+/coverage
+/.nyc_output
+
+# IDEs and editors
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# OS 및 환경 관련 파일
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*~
+
+# Node.js 관련
+.npm/
+.pnpm-store/
+.nvmrc
+.npmrc
+.yarnrc
+.pnpm-debug.log
+
+# Build 및 TypeScript 관련
+/build
+*.tsbuildinfo
+.tsbuildinfo
+
+# NestJS CLI 관련
+/.nestjs-cli.json
+
+# 환경 변수 파일
+.env
+.env.test
+.env.production
+.env.local
+.env.*.local
+.env.development
+
+# Jest 및 테스트 관련
+/coverage
+/.nyc_output
+/.jest/
+
+# Docker 관련
+.dockerignore
+docker-compose.override.yml
+docker-compose.yml
+
+# IDE 및 개발 도구 관련
+/.idea
+.idea_modules/
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# SH
+*.sh
